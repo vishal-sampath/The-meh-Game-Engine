@@ -1,2 +1,2 @@
-# The-meh-Game-Engine
-A meh Engine I wrote while learning Computer Graphics Programming
+# The Meh Engine
+Learning Computer Graphics by programming a barely passable game engine
