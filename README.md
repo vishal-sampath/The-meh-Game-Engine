@@ -1,2 +1,2 @@
 # The-meh-Game-Engine
-Pretty much what the name suggests. A meh game engine. 
+A meh Engine I wrote while learning Computer Graphics Programming
